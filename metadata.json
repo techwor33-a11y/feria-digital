@@ -1,0 +1,8 @@
+{
+  "name": "Feria Digital -williams morris",
+  "description": "Plataforma inteligente para conectar feriantes y vecinos con asistencia de IA para búsquedas semánticas y gestión de productos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
